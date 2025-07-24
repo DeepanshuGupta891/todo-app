@@ -4,18 +4,19 @@
 
 1. **Clone the repository**
    git clone https://github.com/DeepanshuGupta891/todo-app.git
+
    cd todo-app
 
-2. **Install dependencies**
+3. **Install dependencies**
    npm install
 
-3. **Create a .env file in the root folder with:**
+4. **Create a .env file in the root folder with:**
    .env --> folder name
    then add these two lines
    PORT=5000
    MONGO_URI=mongodb://localhost:27017/todoapp
 
-4. **Run the server**
+5. **Run the server**
  Using command --->npm run dev
 
 5) **Run the frontend**
