@@ -3,20 +3,27 @@
 ## ⚙️ How to Run the Project Locally
 
 1. **Clone the repository**
+
    git clone https://github.com/DeepanshuGupta891/todo-app.git
 
    cd todo-app
 
 3. **Install dependencies**
-   npm install
 
-4. **Create a .env file in the root folder with:**
+    npm install
+
+5. **Create a .env file in the root folder with:**
+
    .env --> folder name
+
    then add these two lines
+
    PORT=5000
+
    MONGO_URI=mongodb://localhost:27017/todoapp
 
-5. **Run the server**
+6. **Run the server**
+
  Using command --->npm run dev
 
 5) **Run the frontend**
