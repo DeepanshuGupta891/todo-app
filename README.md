@@ -16,7 +16,7 @@
 
    .env --> folder name
 
-   then add these two lines
+   Then Add these two lines
 
    PORT=5000
 
