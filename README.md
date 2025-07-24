@@ -4,6 +4,7 @@
 
 1. **Clone the repository**
 git clone https://github.com/DeepanshuGupta891/todo-app.git
+
 cd todo-app
 
 2. **Install dependencies**
