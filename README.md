@@ -24,11 +24,12 @@
 
 6. **Run the server**
 
- Using command --->npm run dev
+   Using command --->npm run dev
 
 5) **Run the frontend**
    Using command --->npm start
 
 
 **Fetch all tasks from the database.**
+
 GET ----> http://localhost:5000/api/tasks (Hit on browser or postman to see all tasks)
